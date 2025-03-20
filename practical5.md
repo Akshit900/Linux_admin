@@ -20,17 +20,19 @@
 ![Screenshot 2025-03-20 163730](https://github.com/user-attachments/assets/ea38402a-c0f6-4d76-ba3e-71f8418b642f)
 4. apt-get Command -> (a)Update package list: sudo apt-get update
 ![Screenshot 2025-03-20 163944](https://github.com/user-attachments/assets/dc7c49ea-9f9c-4357-8bcd-60d15b6070c8)
+
 (b)Upgrade installed packages: sudo apt-get upgrade
 ![image](https://github.com/user-attachments/assets/6de30ffc-ccbc-47aa-aa77-51f16195cd3a)
 
 (c)Install a package: sudo apt-get install vim
-![Screenshot 2025-03-20 164812](https://github.com/user-attachments/assets/bdb0ab3a-1759-4614-8607-77d0be4eb115)
+![Screenshot 2025-03-20 164910](https://github.com/user-attachments/assets/596e8593-5cce-456e-b9ca-10732f99662a)
 
 (d)Remove a package: sudo apt-get remove vim
-![Screenshot 2025-03-20 164812](https://github.com/user-attachments/assets/9a5c699c-1e2d-417a-a61f-d29796106199)
+![Screenshot 2025-03-20 165128](https://github.com/user-attachments/assets/c8e33130-7aaf-4f5c-ad0f-765b3d012970)
 
 (e)Remove package along with configuration files: sudo apt-get purge vim
-![Screenshot 2025-03-20 165214](https://github.com/user-attachments/assets/bcd67950-6ac1-4703-87de-eaccc2e2e05a)
+![Screenshot 2025-03-20 165214](https://github.com/user-attachments/assets/10a421cf-863f-4446-88c9-ec76441637fc)
+
 
 (f)Clean up unused packages: sudo apt-get autoremove
 ![Screenshot 2025-03-20 165310](https://github.com/user-attachments/assets/7a0070fa-751f-4392-b8ea-186c9606cefc)
