@@ -7,9 +7,9 @@
 ![Screenshot 2025-03-20 161319](https://github.com/user-attachments/assets/6e8738aa-09aa-410a-ae37-668dec2d90a9)
 4. Change the default umask for the operator1 user: -> (a)Open the user’s .bashrc or .profile file: sudo nano /home/ubuntu/.bashrc
 
-(b)Add the following line to set the umask: umask 0074
-![Screenshot 2025-03-20 162002](https://github.com/user-attachments/assets/fb7c8478-9319-4be1-a317-be8f5c8935c1)
-![Screenshot 2025-03-20 162418](https://github.com/user-attachments/assets/0d9e9eb3-1edb-407a-9b77-c1d01e4327ac)
+   (b)Add the following line to set the umask: umask 0074
+   ![Screenshot 2025-03-20 162002](https://github.com/user-attachments/assets/fb7c8478-9319-4be1-a317-be8f5c8935c1)
+   ![Screenshot 2025-03-20 162418](https://github.com/user-attachments/assets/0d9e9eb3-1edb-407a-9b77-c1d01e4327ac)
 
 5. Confirm the umask: -> su - ubuntu umask
 
