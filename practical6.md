@@ -16,5 +16,5 @@
 6. Remove the operator3 user: -> (a)To delete operator3 without removing the home directory: sudo userdel operator3
 ![Screenshot 2025-03-20 170002](https://github.com/user-attachments/assets/769a0147-8f91-455a-90aa-73b68129066f)
 
-(b)To delete operator3 and its home directory: sudo userdel -r operator3
+   (b)To delete operator3 and its home directory: sudo userdel -r operator3
 ![Screenshot 2025-03-20 170056](https://github.com/user-attachments/assets/0a5381c9-2b70-4817-ade0-c65e52bedc66)
