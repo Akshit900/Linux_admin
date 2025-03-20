@@ -2,13 +2,14 @@
 ![Screenshot 2025-03-20 163210](https://github.com/user-attachments/assets/7c761fcf-b346-4c18-ab5b-2cd811ed4569)
 (b)Show processes for the current terminal session: ps
 ![Screenshot 2025-03-20 163230](https://github.com/user-attachments/assets/88fa5fd8-71c2-442e-a551-e7f819b989d7)
+
 (c)Display a process tree: ps -e --forest
 ![Screenshot 2025-03-20 163421](https://github.com/user-attachments/assets/f7b37c96-1f93-45fe-9613-603f64a961f5)
 (d)Filter by process name: ps -C firefox
 ![Screenshot 2025-03-20 163509](https://github.com/user-attachments/assets/eec74137-851d-4dc1-8e46-d166e0e5abcf)
 (f)Show detailed information of a specific process: ps -p 1234 -o pid,ppid,cmd,%mem,%cpu
 ![Screenshot 2025-03-20 163642](https://github.com/user-attachments/assets/e9603d1e-7573-4861-9ac9-314eaaaf26ac)
-2. kill Command -> (a)Find the PID: ps aux | grep firefox
+3. kill Command -> (a)Find the PID: ps aux | grep firefox
 (b)Kill a process by PID: kill 1234
 
 (c)Force kill a process: kill -9 1234
