@@ -21,7 +21,7 @@
 4. apt-get Command -> (a)Update package list: sudo apt-get update
 ![Screenshot 2025-03-20 163944](https://github.com/user-attachments/assets/dc7c49ea-9f9c-4357-8bcd-60d15b6070c8)
 (b)Upgrade installed packages: sudo apt-get upgrade
-![Screenshot 2025-03-20 164120](https://github.com/user-attachments/assets/a5953246-ef7d-455e-a2eb-3a92ed9e3ced)
+![image](https://github.com/user-attachments/assets/6de30ffc-ccbc-47aa-aa77-51f16195cd3a)
 
 (c)Install a package: sudo apt-get install vim
 ![Screenshot 2025-03-20 164812](https://github.com/user-attachments/assets/bdb0ab3a-1759-4614-8607-77d0be4eb115)
