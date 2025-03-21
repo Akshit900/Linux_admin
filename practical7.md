@@ -21,10 +21,24 @@
 
 
    
-3. chmod Command -> (a)Give execute permission to the user: chmod u+x file.txt
+2. chmod Command -> (a)Give execute permission to the user: chmod u+x file.txt
+   ![Screenshot 2025-03-21 220320](https://github.com/user-attachments/assets/9926e762-038c-4c82-b858-71cd89782f6a)
+
    (b)Remove write permission for others: chmod o-w file.txt
+   ![Screenshot 2025-03-21 220413](https://github.com/user-attachments/assets/9c4d2d46-42e5-487b-accc-16cb5bf35fe5)
+
    (c)Give read and execute permission to the group: chmod g+rx file.txt
+   ![Screenshot 2025-03-21 220448](https://github.com/user-attachments/assets/0a784775-ec7d-4589-8dc1-2b4f494e71f3)
+
    (d)Set specific permissions: chmod u=rwx,g=rx,o=r file.txt
+   ![Screenshot 2025-03-21 220539](https://github.com/user-attachments/assets/9fd10337-8ae9-41a0-af52-abc82d55177e)
+
    (e)Set permissions to rwxr-xr-- using octal mode: chmod 754 file.txt
+   ![Screenshot 2025-03-21 221126](https://github.com/user-attachments/assets/2825d7c2-802f-4b62-9b6d-2c5a28f9c537)
+
    (f)Recursive Change of Permissions: chmod -R 755 /path/to/directory
+   ![Screenshot 2025-03-21 221859](https://github.com/user-attachments/assets/2dee9235-77b6-4305-9738-a338357852d6)
+
    (g)Change permissions based on existing files: chmod --reference=ref_file.txt target_file.txt
+   ![Screenshot 2025-03-21 222003](https://github.com/user-attachments/assets/657eb692-157f-46a5-a524-96f61d174fe1)
+
