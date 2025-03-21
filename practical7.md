@@ -16,8 +16,8 @@
 
    (f)Use --from to change from a specific owner: sudo chown --from=current_owner new_owner 
       file.txt
-   ![Screenshot 2025-03-21 214742](https://github.com/user-attachments/assets/981cc1c8-a416-43e6-a8ed-6f94ac1900ee)
-   ![Screenshot 2025-03-21 214801](https://github.com/user-attachments/assets/4b011824-222c-4c7f-8487-c706f19c6fe3)
+      ![Screenshot 2025-03-21 215649](https://github.com/user-attachments/assets/45fa71a6-c7df-4f45-be97-deac64b64a34)
+
 
 
    
