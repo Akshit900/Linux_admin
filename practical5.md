@@ -19,7 +19,9 @@
 
    ![Screenshot 2025-03-20 163642](https://github.com/user-attachments/assets/e9603d1e-7573-4861-9ac9-314eaaaf26ac)
 
-3. kill Command -> (a)Find the PID: ps aux | grep firefox
+2. kill Command -> (a)Find the PID: ps aux | grep firefox
+
+   ![Screenshot 2025-03-22 150939](https://github.com/user-attachments/assets/af1842a6-08e0-4ad6-a63a-70c5fe211625)
 
    (b)Kill a process by PID: kill 1234
 
@@ -27,7 +29,7 @@
 
    (d)Kill by process name: killall firefox
 
-3. top Command -> top Sort by memory usage: Press M Sort by CPU usage: Press P Kill a process: Press k → Enter the PID Exit top: Press q
+4. top Command -> top Sort by memory usage: Press M Sort by CPU usage: Press P Kill a process: Press k → Enter the PID Exit top: Press q
 
     ![Screenshot 2025-03-20 163730](https://github.com/user-attachments/assets/ea38402a-c0f6-4d76-ba3e-71f8418b642f)
 
