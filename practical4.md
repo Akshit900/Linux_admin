@@ -12,5 +12,4 @@
    ![Screenshot 2025-03-20 162418](https://github.com/user-attachments/assets/0d9e9eb3-1edb-407a-9b77-c1d01e4327ac)
 
 5. Confirm the umask: -> su - ubuntu umask
-
 ![Screenshot 2025-03-20 163132](https://github.com/user-attachments/assets/f7533d56-0941-4524-8bca-d97dc635ae30)
